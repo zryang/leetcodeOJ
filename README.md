@@ -23,7 +23,7 @@ github上有很多人完成了leetcode的题库，以各种呈现出来。
 
 |序号| 题名 | 代码 |难度|
 | ---- | ---- | ---- | ---- |
-| 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) |C++|简单|
+| 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) |[C++](https://github.com/zryang/leetcodeOJ/blob/master/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp)|简单|
 
 ​	
 
